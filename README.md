@@ -38,10 +38,7 @@ Responsive Website using SCSS Framework
 
 Language Used:
 
-HTML5
-HTML
-CSS
-SCSS
+HTML5, HTML, CSS, SCSS
 
 
 SASS Framework Used:
